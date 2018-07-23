@@ -1,26 +1,25 @@
 <html>
-   <head>
-      <title> hello world </title>
-   </head>
-   <body>
-      <div id="container">
-        <div id="header">
-          <h1> welcome to my life</h1>
-       </div>
-       <div id = "content">
-            <div id="nav">
-            <h3> navagation</h3>
-              <ul>
-                  <li> home</li>
-                  <li> about</li>
-                  <li>contactat</li>
-            </d>
-            <div id="main">
-               <h2>home page</h2>
-            </div>
-            
-       </div>
-       <div id= "footer">
-       </div>
-   </body>
+<head>
+<title> hello world </title>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1> welcome to my life</h1>
+</div>
+<div id = "content">
+<div id="nav">
+<h3> navagation</h3>
+<ul>
+<li> home</li>
+<li> about</li>
+<li>contactat</li>
+</d>
+<div id="main">
+<h2>home page</h2>
+</div>
+</div>
+<div id= "footer">
+</div>
+</body>
 </html>
